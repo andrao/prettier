@@ -1,6 +1,6 @@
 {
     "name": "@andrao/prettier",
-    "version": "1.0.1-alpha.1",
+    "version": "1.0.1",
     "homepage": "https://github.com/andrao/prettier#readme",
     "bugs": {
         "url": "https://github.com/andrao/prettier/issues"
