@@ -70,7 +70,7 @@
         "prettier-plugin-tailwindcss": "0.5.13"
     },
     "devDependencies": {
-        "@andrao/tsconfig": "^0.1.0",
+        "@andrao/tsconfig": "^1.0.0",
         "@semantic-release/git": "^10.0.1",
         "commitizen": "^4.3.0",
         "cz-conventional-changelog": "^3.3.0",
