@@ -16,7 +16,7 @@
         ".": "./index.js"
     },
     "bin": {
-        "prettier": "pnpm exec prettier"
+        "andrao-prettier": "./bin/prettier.cjs"
     },
     "scripts": {
         "format": "prettier --check .",
