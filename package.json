@@ -15,6 +15,9 @@
     "exports": {
         ".": "./index.js"
     },
+    "bin": {
+        "prettier": "pnpm exec prettier"
+    },
     "scripts": {
         "format": "prettier --check .",
         "format:fix": "prettier --write .",
